@@ -17,7 +17,7 @@ print(g)
 
 print(0.3434343434354353454354354363 == 0.3434343434354353454354354361)
 
-name = "Kinga"
+name = "Kingaaaa"
 last_name = " Kinga2"
 
 print(name + last_name)
