@@ -1,3 +1,0 @@
-Prepare the demo.
-Review the JSON report.
-Clean up temporary notes.

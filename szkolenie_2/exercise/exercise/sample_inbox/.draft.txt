@@ -1,1 +1,0 @@
-This hidden draft should only appear with --include-hidden.
